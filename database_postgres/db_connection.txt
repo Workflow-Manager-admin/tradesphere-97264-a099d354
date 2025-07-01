@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/tradesphere-97264-a099d354/database_postgres/myapp.db
+# File path: /home/kavia/workspace/code-generation/tradesphere-97264-a099d354/database_postgres/myapp.db
